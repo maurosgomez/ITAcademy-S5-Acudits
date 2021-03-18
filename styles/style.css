@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100vh;
+    background-image: url("../img/laugh.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.weather {
+    padding-top: 0.6em;
+    font-size: 1.2em;
+}
+
+.card {
+    margin-top: 8rem;
+    min-height: 50vh;
+    border-radius: 1rem !important;
+}
+
+.card-title {
+    margin-top: 2rem;
+    font-size: 2.3em;
+}
+
+.card-text {
+    margin-top: 7rem;
+    font-size: 1.3em;
+}
+
+.btn {
+    margin-top: 6.5rem;
+    font-size: 1em;
+}
